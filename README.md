@@ -1,7 +1,4 @@
 ## Eae, sou Rafael Pontes "Bridges" 🔧
-
-Amante de tecnologia, adoro explorar o mundo dos microcontroladores, especialmente **Arduino** e brincar com **C++**. Sempre buscando aprender e criar projetos inovadores! 
-
 ### 🌟 Minhas Skills
 
 <div align="center">
@@ -34,7 +31,3 @@ Meu projeto atual favorito é o **Labamba**, um simulador do brinquedo de parque
   <a href="https://www.dio.me/users/pontesr1234" target="_blank"><img src="https://img.shields.io/badge/-DIO-%230077B5?style=for-the-badge&logo=dio&logoColor=white" target="_blank"></a>
   <a href="https://matheus-pontes.github.io/PortfolioRafaelPontes/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
-
-## 👨‍💻 Visitantes no perfil
-
-![](https://komarev.com/ghpvc/?username=Rafael705)
